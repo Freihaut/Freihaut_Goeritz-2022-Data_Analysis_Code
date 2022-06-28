@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6772378.svg)](https://doi.org/10.5281/zenodo.6772378)
+
 ### General Information
 
 This repository contains the data and data analysis code, which was used in the longitudinal field study data about
