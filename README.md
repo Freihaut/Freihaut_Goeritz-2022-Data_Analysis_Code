@@ -3,7 +3,11 @@
 ### General Information
 
 This repository contains the data and data analysis code, which was used in the longitudinal field study data about
-the relationship between computer keyboard typing behavior and emotional states. The corresponding research paper is currently submitted and has not been published yet.
+the relationship between computer keyboard typing behavior and emotional states.
+
+The corresponding research paper is: Freihaut, P. & Göritz, A. S. (2022). Unlocking feelings with a password – An investigation of the relationship between keyboard typing and affective states. Manuscript in review. Preprint available at http://dx.doi.org/10.2139/ssrn.4206734
+
+
 
 The data was analyzed with Python (3.8.12)
 
